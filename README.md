@@ -1,7 +1,7 @@
 
 # Message Board | Quadro de mensagens | Laravel
 
-  Olá! Este é uma projeto em Laravel onde vário usuários podem conversar entre si por meio de 'blocos de mensagens', como um tweet ou uma conversa em um grupo do WhatsApp ou Telegram.
+  Olá! Este é um projeto em Laravel onde vário usuários podem conversar entre si por meio de 'blocos de mensagens', como um tweet ou uma conversa em um grupo do WhatsApp ou Telegram.
 
   Todo o front do projeto foi baixado do https://bootcamp.laravel.com/ e a linguagem ultilizada para retirar a estaticidade do sistema foi a Blade, do próprio Laravel.
 
