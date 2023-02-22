@@ -6,7 +6,7 @@
   Todo o front do projeto foi baixado do https://bootcamp.laravel.com/ e a linguagem ultilizada para retirar a estaticidade do sistema foi a Blade, do próprio Laravel.
 
 
-
+<a href='https://github.com/SilvaNeto29/Message-Board---Laravel/blob/master/README.en.md'>English</a> 
 
 
 
